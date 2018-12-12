@@ -46,6 +46,5 @@
 <a href="https://api.opendota.com/api/players/104604745/matches">Датасет</a>
 
 
-# :🧑: Автор
-
+# 🧑 Автор
 Проект розроблений Martyn Horshovskyy [(t.me)](https://t.me/taburetka322) [(mail)](https://martyn.horshovskyy@gmail.com).
